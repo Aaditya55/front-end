@@ -1,0 +1,29 @@
+.main-screen-register {
+    background: url(../../assets/images/registerBackground.png);
+}
+.welcome-heading{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    color: #000000;
+}
+.highlight {
+    font-weight: 600;
+    color: #779341;
+}
+.have-account{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #8D8D8D;
+}
+.main-heading{
+    font-weight: 400;
+    font-size: 35px;
+    color: #000000;
+}
+.form-heading{
+    font-weight: 300;
+    font-size: 16px;
+    color: #000000;
+}
